@@ -4,12 +4,12 @@
 
 ## Table of Contents
 
-- **About Me
-- **Technologies Used
-- **Installation
-- **Usage
-- **Contributing
-- **Contact
+- About Me
+- Technologies Used
+- Installation
+- Usage
+- Contributing
+- Contact
 
 ## About Me
 
@@ -17,9 +17,9 @@
 
 ## Technologies Used
 
-- **HTML: The standard markup language for creating web pages.
-- **CSS: A style sheet language used for describing the look and formatting of a document written in HTML.
-- **JavaScript: A programming language that enables interactive web pages.
+- HTML: The standard markup language for creating web pages.
+- CSS: A style sheet language used for describing the look and formatting of a document written in HTML.
+- JavaScript: A programming language that enables interactive web pages.
 
 ## Installation
 
