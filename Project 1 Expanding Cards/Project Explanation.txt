@@ -1,0 +1,3 @@
+In this project we have 5 images.
+We display them in one row (beside each other).
+When you click on any image it expands and fill a bigger width to be shown more clearly and other images converted to a smaller width to give a space for the clicked image to expand in the web page.
