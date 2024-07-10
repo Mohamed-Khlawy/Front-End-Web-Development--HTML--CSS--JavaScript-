@@ -1,0 +1,12 @@
+In this project we did the idea of the Progress Steps or Progress Bar idea.
+
+We have 4 main circles, each refer to a point in the progress bar (can be more easly with the same idea).
+
+We also have a line between these circles to define in which circle we are now.
+
+Finally we have 2 buttons (Prev and Next):
+    1) Prev ==> to go to the previous circle, and this make the line go back one step per click on it.
+
+    2) Next ==> to go to the next circle, and this make the line go forward one step per click on it.
+
+It's really easy and funny project, Just open the index.html file and copy path to your browser and try the Progress Bar.
