@@ -1,0 +1,10 @@
+In this project we did the idea of Rotating Navigation Bar when you click on the Button in the Top Left of the Web Page.
+
+We have 2 Paragraphes (in the start and the end of the web page) and an Image.
+
+We also have a Quarter Circle in the Top Left of the Web Page, with 2 Buttons:
+    1) Open Button ==> this button is the visible one when you load the web page, and when you click it the whole page will rotate to show the Hidden Navigation Bar, and this button is replaced with the second button when you click it.
+
+    2) Close Button ==> this button will be visible when you click the Open Button, so the Open will be invisible and Close will be Visible, and when you click it the page will back to the default view and the Navigation Bar will be Hidden again to see the Web Page Content.
+
+Repeat this clicks on these 2 buttons to see the change, and tell me your opinion.
