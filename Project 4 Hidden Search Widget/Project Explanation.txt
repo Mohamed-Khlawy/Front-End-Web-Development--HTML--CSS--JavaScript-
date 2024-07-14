@@ -1,0 +1,10 @@
+In this simple project we did the idea of Hidden Search Widget, Let's explain it easily.
+
+We have a Button in the middle of the web page, and when you click this button, the following happens:
+    1) A hidden search widget appears on the left of the search button and get focused to write by default.
+
+    2) The search button goes to the right of the search widget.
+
+Finally, when you click again the search button, the inverse process happens and the button return to the middle of the web page and the search widget return hidden again.
+
+Repeat this process many times to see the difference, and don't forget to tell me your opinion Bro.
