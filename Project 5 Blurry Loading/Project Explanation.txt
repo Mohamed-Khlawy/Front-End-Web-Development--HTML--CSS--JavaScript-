@@ -1,0 +1,12 @@
+In this very simple project we did the idea of Blurry Image with page Loading, Let's explain it.
+
+We have a background image and when you load the web page in each time, the following happens:
+    1) There is a loading counter in the center of the web page it starts visible with number of (0), and it starts to increase when it's going invisible until it reaches (100) to disappear completely from the web page.
+
+    2) There is an image in the background of the web page, and when you load the web page it starts with blurry effect (not clearly visible) and it starts to be visible degree by degree, until it become clearly visible when the loading number disappears completely.
+
+Simply, when the loading number start to disappear the image starts to be more visible, until the loading number disappears completely, the image will be clearly visible in the background.
+
+Go on bro and try to load the web page many times to understand this simple project idea.
+
+I am waiting your opinion bro!
