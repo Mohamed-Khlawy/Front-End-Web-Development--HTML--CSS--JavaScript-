@@ -1,0 +1,11 @@
+In this project we did the idea of Animation when Scrolling, Let's explain it easily.
+
+Basiclly, we have some boxes (can be anything else you want) and when you scroll the web page down by the Vertical Scroll Bar, more boxes start to be shown in the web page, I make them to be shown one from the right side and the other from the left side (Even Box from Right, Odd Box from Left).
+
+Also when you go up with the scroll bar they start to be removed one by one (the same idea in removing, Even Box goes Right, Odd Box goes Left)
+
+It's an easy idea and attractive in the web page.
+
+I will let you now to try it many times by going up and down with the Vertical Scroll Bar to understand the idea more clearly.
+
+Don't forget bro, I am waiting your fantastic opinion.
