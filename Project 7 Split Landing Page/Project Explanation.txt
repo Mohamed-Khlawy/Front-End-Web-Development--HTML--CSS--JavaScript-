@@ -1,0 +1,9 @@
+In this project we made the idea of Split Landing Page, Let's explain it.
+
+We divide the web page into two parts, each with it's image and when you hover to any side of them, this side gets larger and take 75% of the web page and the other side take the other 25% of the page.
+
+This idea is applied either you hover to the right of left side.
+
+Now, I will let you try it with yourself to understand it more easily.
+
+Don't forget bro, I am waiting your opinion.
