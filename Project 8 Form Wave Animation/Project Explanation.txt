@@ -1,0 +1,13 @@
+Welcome again guys in another funny and simple project, named Form Input Wave Animation, Let's explain it.
+
+In this project we made a simple form input with 2 inputs required (Email, Password).
+
+The idea is in the Animation in these inputs, when you click any of the 2 input to enter your data, the Labels of this input text (in our case is word Email or word Password) they will go up to let you enter your inputs but in a fantastic animation.
+
+The animation is each character of the word start to go up each one alone until the whole word go up and you start to write your inputs.
+
+Also when you start to write in the second input text, the first one go down in the reverse animation explained above, and so on.
+
+Now I will let you try it many times to see the effect.
+
+Don't forget bro I am waiting your fantastic opinion.
