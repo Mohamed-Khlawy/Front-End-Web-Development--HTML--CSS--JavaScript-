@@ -1,0 +1,11 @@
+In this project we did a Sound Borad with 6 different Quranic surah. Let's explain it.
+
+In our web page we have 6 Buttons, each button of them have a text of the name of the Quranic surah that will play when you press this button.
+
+When you press any button of them the Quranic surah will start to play and you will hear it clearly from your browser.
+
+If you press another button, the Previous surah will stop to start the one you press now.
+
+Now, I will let you to try this beautiful project and hear these 6 beautiful Quranic surahs, by clicking on the button with the surah that you want to hear.
+
+Don't forget bro, I am waiting your opinion.
