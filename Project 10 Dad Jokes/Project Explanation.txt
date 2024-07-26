@@ -1,0 +1,11 @@
+In this project we get jokes from Dad Jokes API. Let's explain it.
+
+In our simple web page, we have in the center of the page a space to view the jokes we get.
+
+To get a new joke, you can only reload the page, or click on the Button (Get Another Joke) and the joke will change easily.
+
+I now this is a simple project but in this one, we have learned how to make an HTTP Request from another website (Here in this project ==> https://icanhazdadjoke.com), we can use the same way to Get or Post any data from and to any website.
+
+Now I will let you to try it by reloading the page many times and clicking the button also to get new jokes, I hope you won't lose the challenge (Don't Laugh).
+
+Don't forget bro. I am waiting your nice opinion.
