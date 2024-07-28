@@ -1,0 +1,13 @@
+In this simple project we can get the KeyCode for any button on the keyboard. Let's explain it.
+
+Simply, When you press any button on the keyboard, you will see automatically in the web page 3 inforamtions about the key you press, as following:
+
+    1) The Name of the Key you already pressed.
+
+    2) The Keycode of the Key you already pressed.
+
+    3) The Code of the Key you already pressed.
+
+Now you can open the index.html File and paste it's URL to your Browser, and just start to click on any keys on your Keyboard to see the results.
+
+Don't forget bro, I am waiting your opinion Bro!!
