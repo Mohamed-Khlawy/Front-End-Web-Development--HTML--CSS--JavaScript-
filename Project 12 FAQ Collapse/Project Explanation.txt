@@ -1,0 +1,11 @@
+In this project we did the idea of Frequently Asked Questions in a nice design, Let's explain it.
+
+We have intially in our web page 5 Questions with a button in the top right of each question.
+
+When you press this button the answer appears and the design of the question rectangle become different.
+
+When you click the button to show the answer, it's icon changed to the close icon and when you press it again the answer got disappeard and you will see the question only, until you press the button again to see the answer.
+
+Now it's your time to try this simple and nice project on your own browser with the index.html file.
+
+Don't forget bro to tell me your fantastic opinion.
