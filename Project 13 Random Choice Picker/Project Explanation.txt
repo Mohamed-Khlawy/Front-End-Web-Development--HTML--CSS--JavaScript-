@@ -1,0 +1,15 @@
+When you are confused about some choices and you don't know which one to choose, You can use this project idea, Let's explain it.
+
+In our simple web page you have a Textarea to enter Your choices (any number of them you want), but take care you should seperate each 2 choices by a (COMMA), don't worry bro about this thing, because when you press COMMA you will see that you can add a new choice.
+
+To be able to see what is the choices you have entered, after each choice you enter you will find it appears under the Textarea to can see them clearly with your eyes.
+
+After you finish the choices that you want to choose one of them, Easily you can press (ENTER) on your Keyboard and the Textarea wil be cleared and the process of random choosing between your choices will start.
+
+Finally, you will see that only one of the choices is being highlighted after the random process, and Here we are bro, That's your random choice.
+
+You can repeat this process many times with same choices, and you will see that in each time you will get different choice by the radnom choosing process.
+
+Now you can go to try the Project bro by the (index.html) file and your choices to get more understanding for the project idea.
+
+Don't forget bro, I am waiting your opinion.
