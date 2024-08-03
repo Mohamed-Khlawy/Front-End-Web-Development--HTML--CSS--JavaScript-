@@ -1,0 +1,13 @@
+In this simple project we made a nice Animated Navigation, Let's explain it easily.
+
+In our web page specially in the middle of it we have the Navigation Bar, with 4 different links (Home, Works, About, Contact).
+
+At the most Right of the Navigation Bar when the 4 Links are Visible, we have (X) Mark which will be displayed as default when you reload the web page with the Navigation Bar.
+
+When you click on this (X) Mark the Navigation Bar and its links will start to disapper in a nice Animation and the (X) Mark will be converted after the Navigation Bar is disappered totally to the (=) Mark.
+
+When you click the (=) Mark the Navigation Bar will back again to be visible and the mark will be converted to be (X) Mark again.
+
+Now, It's your time to try the Project with the index.html file on your browser.
+
+And Don't forget bro, I am waiting your fantastic opinion bro.
