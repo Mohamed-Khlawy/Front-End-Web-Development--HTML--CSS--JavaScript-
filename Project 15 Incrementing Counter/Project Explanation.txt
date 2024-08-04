@@ -1,0 +1,11 @@
+In this project we did the Incrementing Counter for anything you want, Let's explain it.
+
+In our web page we choose to view 3 Incrementing Counters (Twitter Followers, YouTube Subscribers, Facebook Fans and Don't worry bro you can choose any counter and it will be in the same way for these).
+
+When you reload the Web Page these 3 counters will start to be incremented from (Zero) until it reaches to the number you will add in the (data-target Attribute in index.html file and then will be incremented by the script.js file).
+
+This is a nice idea to make it in your website in any Incrementing Counter you want to show it in the web page.
+
+Now it's your time bro to try the project by running the index.html file in your browser.
+
+Don't forget bro, I am waiting your opinion!!
