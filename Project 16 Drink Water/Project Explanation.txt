@@ -1,0 +1,14 @@
+In this project we encourage to Drink 2 Liters of Water Daily, and Don't worry bro, we will help you with this project to count how much you already drank and how much remained, Let's explain it.
+
+In our web page we have 2 main things:
+    1) The Big Cup ==> This represents how much water you already drank totally in this day, also he represents how much water remianed for you to drink to finish you 2 Liters.
+
+    2) 8 Small Cups ==> Each one of these represents (250 ml of water) so by multipling this quantity by 8 (number of cups), we will get the 2 Liters that you should drink daily.
+
+The idea is very simple, each time you drink a cup of water (250 ml) you come and press on a new small cup, after that look to the big cup to see how much you alreday drank and how much remianed for you.
+
+Don't worry if you press on a wrong small cup, you can press it again to cancel it.
+
+Finally when you finish the 8 small cups (by drinking all of them and press on all of them in the web page), You will see that the big cup have been fulled to the end (100% ==> means you succeeded to drink 2 Liters of water in this day) and the reamined part will disapper as there is no remaining now.
+
+I Hope you understand it easily bro, and Now it's your favorite time to test the project and count how much of water you drank today, Don't forget bro that I am waiting you opinion.
