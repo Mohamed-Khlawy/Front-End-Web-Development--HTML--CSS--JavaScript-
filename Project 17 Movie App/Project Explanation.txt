@@ -1,0 +1,22 @@
+In this project we made our First Movie App, Let's explain it.
+
+When you open our web page you will get the first 20 popular movies in the API that we get the data from it (The Movie Database => https://www.themoviedb.org/ ) and don't worry it's always up to date with the new popular movies.
+
+You can also search in our web page for a specific movie name and you will get the first 20 matching movies with the name you have entered.
+
+Each movie part consists of the following:
+    1) Movie Image.
+
+    2) Movie Title.
+
+    3) Movie Rating, with 3 color options based on the rating of the movie:
+        3.1) Green ==> More than or equal to (8)
+        3.2) Oragne ==> More than or equla to (5)
+        3.3) Red ==> Lower than (5)
+
+    4) Movie Overview ==> to see this you should hover over the Movie Image and it will appear from the bottom of the Movie part.
+
+
+Now it's your time bro to try the Project.
+
+Don't forget I am waiting your opinion bro.
