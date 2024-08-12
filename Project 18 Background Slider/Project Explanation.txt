@@ -1,0 +1,11 @@
+In this project we made a Slider for the Background Images, Let's explain it.
+
+When you open our web page, intially you will find an image in the background and a box in the middle of the web page with 2 arrows one on the left and the other on the right.
+
+When you press any one of the arrows, the background image will change and the image in the box too to the same image.
+
+It's an easy project specially if you have an image gallery or something like that.
+
+Now, it's your time bro to try the project.
+
+Don't forget bro I am waiting you fantastic opinion bro.
