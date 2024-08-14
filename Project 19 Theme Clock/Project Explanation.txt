@@ -1,0 +1,11 @@
+This is one of my favorite projects, here we made a very nice Theme Clock, Let's explain it.
+
+In our web page, We have at the top of it a button to change the Mode of the page either for Dark or Light (Intially it's Light, so when you click on the button it will become dark and so on).
+
+Under the button you will find the Theme Clock, that changes based on your time now (Yeah bro it will tell you the right time for you now, you can try it to make sure).
+
+Also we have a time in numbers to know it clearly and also the day and month.
+
+Now it's your time bro, Go on and take the index.html to your own browser and take a look for the project. 
+
+And Don't forget bro, I care to know your opinion.
