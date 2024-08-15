@@ -1,0 +1,13 @@
+In this simple project we learned the idea of how to make add the Ripple Effect to any button in your web page, Let's explain it easily.
+
+When you open the web page, you will find only a button in the center of the page, and that is only what we want (you can make this project idea for any number of buttons in your website).
+
+When you click on the button a circle effect will appear from where exactly you press on the button (it will be a like the Fading Effect if you know it bro).
+
+Any where you press on the button this circle will appear and go to the corners of the button then it will disappear.
+
+I hope you get a full understanding for what it the Ripple Effect for the button, and if you still didn't get the full understanding, I think you will understand if you try it with yourself.
+
+Now it's your time bro, open your browser and paste the index.html file path and try the project idea by clicking on many places on the button to see the Ripple Effect!
+
+Don't forget bro, I really want to hear your fantastic opinion.
