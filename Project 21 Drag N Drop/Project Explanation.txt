@@ -1,0 +1,9 @@
+In this project we made the Drag Drop idea, Let's explain it.
+
+When you open the web page you will find 5 Squares, but only the first one has an image.
+
+You can take the image from the first square and drop it in any of the other squares.
+
+To get more understand just go and try the project.
+
+I am waiting your opinion bro.
