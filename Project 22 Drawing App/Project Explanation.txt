@@ -1,0 +1,20 @@
+This is one of my favorite projects I have made for now, We made a Drawing App with a nice functionality on it and very simple, so Let's explain it easily.
+
+When you open our web page, you will find a big square in the middle of the page and that is your drawing paper bro.
+
+You can draw anything you want bro, just put your mouse cursor inside the square and press on your mouse and start to move inside the square and you will find that you are a great painter!
+
+Now, I will tell you some of the nice functionality in our project:
+    1) Font Color Button => you will find it under the painting square and it's by default has a black color, but when you click on it you can choose your favorite color to draw with it on your own paper.
+
+    2) Increase Font Size Button => beside the font color button, you will find it with the (+) mark, and when you press on it the font size will increase by 5.
+
+    3) Decrease Font Size Button => the same for the increase button, but in the other way, (decrease by 5 when you press it).
+
+    4) Actual Font Size Now => this is between the increase and decrease buttons, and this only show you the font size now.
+
+    5) Clear Button => this is alone on the left of the bottom rectangle, and when you click it the painting paper will return white, to draw again and again.
+
+Now, It's time for you bro, to show us the painter that exist inside you, just go and open the index.html file on your browser and start drawing bro.
+
+Don't forget, I am waiting your fantastic opinion about our Drawing Application!!
