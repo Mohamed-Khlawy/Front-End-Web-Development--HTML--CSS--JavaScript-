@@ -1,0 +1,9 @@
+This is one of the shortest project I have ever made, because we made a simple and nice Kinetic Loader using only HTML and CSS, Let's explain it.
+
+In short words, when you open the web page you will find 2 Triangles in the middle of the web page, and to make the effect of the loading page, the 2 Triangles are trying to catch each other in a nice animation effect between them.
+
+I know that it's a very simple and easy project but it's a very useful idea when you are making a loading page in your own website.
+
+So now it's your time bro to try the project. 
+
+Don't forget I am waiting your opinion bro.
