@@ -1,0 +1,9 @@
+In this project we made the idea of the Content Placeholder Effect, Let's explain it.
+
+There isn't much words to say in the explanation, but when you open the web page or reload it (yeah bro each time you reload the page you will see the effect), a card in the middle of the web page will start with a fadding effect like it's loading the card's content, and then the content will be visible on the card in like 2 and half seconds.
+
+We are finished bro, Like these projects is very useful when you are getting the data from a server, so you want this card effect until the data reached from the server.
+
+Now it's your time bro, just go and try the project and reload the page many times to see the effect clearly.
+
+Don't forget bro, I am waiting your fantastic opinion.
