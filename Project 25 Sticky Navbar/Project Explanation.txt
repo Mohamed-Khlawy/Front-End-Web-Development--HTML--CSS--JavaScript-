@@ -1,0 +1,9 @@
+In this simple project our main idea is to make a Stiky Navigation Bar, so Let's explain it easily.
+
+When you open the web page, the first thing you will see it the main image in the page with a text in the middle of it, and a Navigation Bar at the top of the page.
+
+Then you will start to scroll the page down to see the main content of the page, but when you scroll down the Navigation Bar will remain in his place with a very small change in its appreance (The background of it will be converted to white and the font color will be black and its size will be little smalller).
+
+Now it's your time bro, just go and paste the index.html path to your browser, and try to scroll the page up and down to see the change of the Navigation Bar.
+
+And don't forget bro, I am waiting your opinion about the project.
