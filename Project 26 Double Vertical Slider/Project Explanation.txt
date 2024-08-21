@@ -1,0 +1,11 @@
+In this project we made a nice Vertical Slider, so Let's explain it.
+
+When you open the web page you will find it seperated into 2 parts (left with the text to explain, and the right with the image).
+
+Also you will find a 2 Arrows (one to up and the other to down).
+
+When you press on each one of them you will get a nice sliding effect between the right and left parts (to match the text in left with image in right).
+
+Now it's your time bro, just open the browser and try the project and press many times on the 2 Arrows to see the nice sliding effect.
+
+Don't forget bro, Your opinion is so important for me.
