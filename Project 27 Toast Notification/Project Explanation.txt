@@ -1,0 +1,25 @@
+In this simple project we did the idea of Taost Notificaitons (that appear in a side of the page), Let's explain it.
+
+When you open the web page you will find a button in the middle of the web page (Show Notification) and when you press on it a notificaiton will appear in the bottom right of the web page.
+
+Each time you press on it, a new notification will appear in the bottom right and if you press many times after each other new messages will appear on the top of each other.
+
+Don't worry each message take a 3 seconds and then it disappears automatically.
+
+Each message will have a random text and random color from the following:
+    1) Message Texts:
+        1.1) Message One.
+        1.2) Message Two.
+        1.3) Message Three.
+        1.4) Message Four.
+
+    2) Message Colors: 
+        1.1) Purble (Default Message).
+        1.2) Green (Success Message).
+        1.3) Red (Error Message).
+
+You can change this with any values you want, and I know that this is a simple project, but we can use this idea when we want to show any notifications to the user.
+
+Now it's your time bro, try the project and press on the middle button many times to see the notificaitons.
+
+Don't forget bro, I will be very happy to hear your opinion about the project.
