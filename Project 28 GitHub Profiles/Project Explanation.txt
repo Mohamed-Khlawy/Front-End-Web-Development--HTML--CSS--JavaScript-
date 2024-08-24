@@ -1,0 +1,18 @@
+This is one of my favorite projects I have made for now, because I have learned to much from it, As an appreviation we made a Github Profiles project, Let's explain it.
+
+When you open the web page you will find a search place, you have to enter any Github Profile name you want to search for it, then press Enter.
+
+If the entered name is right, the Github Profile will appear in front of you with some information about it as follows: 
+    1) User Name => It wiil appear at the top of the card.
+
+    2) User Avatar => The image of that user in the Github Profile.
+
+    3)  User Bio => Here if the user has a bio you will see it, or you will see this if he hasn't(This user donot have a bio till now!!).
+
+    4) 3 Numbers as info for this user ==> Followers, Following, Repos.
+
+    5) The Latest 10 Projects for this user ==> The projects will appear with their names, and you click on the name to go to the project on Github.
+
+Now, It's your time bro to try the project and enter the user that you want to know more about his Github Profile.
+
+Don't forget bro, It is important for me to hear your opinion about this project.
