@@ -1,0 +1,11 @@
+In this project we did the idea of the DoubleClick creates a Heart, Let's explain it.
+
+When you open the web page, you will a find an image (one of my drawings, don't forget to tell me your opinion about it).
+
+When you DoubleClick on any place on that image, a Heart will appear and grow then disappear.
+
+Also you will find a counter above the image, to count the number of times that you loved this image.
+
+Now it's your time bro, just go and try the project by the index.html file.
+
+And don't forget bro, I am waiting to hear your opinion!
