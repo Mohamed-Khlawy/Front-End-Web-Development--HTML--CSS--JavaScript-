@@ -1,0 +1,16 @@
+In this simple project we did the idea of Auto Text Effect, Let's explain it.
+
+When you open the web page, you will find a text in the middle of the web page (We Love Programming!!).
+
+This text will appear character by character until it reach to the end of it, then it will start from the beginning again.
+
+The idea is that there is a Speed value at the bottom of the page, and it's intially will start with (1, as the default value), but there are 2 Cursors with it as following:
+    1) Up Cursor ==> it increases the speed value of the text appearing by 1 with each click.
+
+    2) Down Cursor ==> it decreases the speed value of the text appearing by 1 with each click.
+
+I know that this a simple project, but we can use this effect with a Hero Banner of the web pages or any similar ideas.
+
+Now, it's your time bro to test the project with yourself.
+
+Don't forget I am waiting your opinion.
