@@ -1,0 +1,22 @@
+This is a very nice project to Generate a Random Password based on your prefrences, so Let's explain it.
+
+When you open the web page you will find the square in the middle of it to Generate the Password, and that is it's components:
+    1) Empty TextArea ==> here you will see the Random Password you will get, so it will be empty at first.
+
+    2) Password Length Counter ==> here you can choose your favorite number of chars in the generated password (max is 20 and min is 4).
+
+    3) Include Uppercase Letters ==> here you choose if you want Uppercase Letters or not in the generated password.
+
+    4) Include Lowercase Letters ==> here you choose if you want Lowercase Letters or not in the generated password.
+
+    5) Include Numbers ==> here you choose if you want Numbers or not in the generated password.
+    
+    6) Include Symbols ==> here you choose if you want Symbols or not in the generated password.
+
+After you choose these things, you can press on the Button at the bottom of the square, and then your Random Password will be shown in front of you bro!
+
+You can also Copy the generated password to your Clipboard, by clicking on the button at the rightmost of the TextArea. 
+
+Now it's your time to test the Project and Generate many Passwords as you want.
+
+Don't forget I am waiting your opinion bro!!
