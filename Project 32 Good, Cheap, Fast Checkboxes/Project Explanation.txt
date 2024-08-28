@@ -1,0 +1,23 @@
+In this project we did a nice idea with 3 Checkboxes with some logic between them, so Let's explain it.
+
+When you open the web page you will find 3 Checkboxes in the middle of the web page that represents the core idea for the project to answer the question (How do you want your project to be?), and the Checkboxes are as following:
+    1) Good.
+    2) Cheap.
+    3) Fast.
+
+You might ask yourself now, Where is the logic and the idea in this project?!!
+
+I will answer you bro, the logic is when you press the 3 Checkboxes and make all of them true, this won't happen bro, because actually you can't achieve a project with these 3 features together.
+
+So, the logic is if you try to press the 3 Checkboxes with each other, you will end with a case from these 3 cases no more:
+    1) If you checked the Good and Cheap as first and second, as a result of that when you press on the Fast Checkbox ==> the Cheap will be Unchecked.
+
+    2) If you checked the Cheap and Fast as first and second, as a result of that when you press on the Good Checkbox ==> the Fast will be Unchecked.
+
+    3) If you checked the Good and Fast as first and second, as a result of that when you press on the Cheap Checkbox ==> the Good will be Unchecked.
+
+You can change this Logic based on your sight.
+
+Now it's your time bro to check the whole project by copying the index.html path to your own borwser, and try the logic explained above.
+
+Don't forget bro, I want to hear your opinion about the whole project after you test if many times.
