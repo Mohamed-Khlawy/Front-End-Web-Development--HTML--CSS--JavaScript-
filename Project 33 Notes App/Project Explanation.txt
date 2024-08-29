@@ -1,0 +1,16 @@
+In this project we made Notes App with some nice features, so let's explain it.
+
+When you open the web page, you can press on the button on the top right of the page to add a new note.
+
+Then a new note will appear on the page and you can insert your words inside it.
+
+After you finish typing, it you reload the page you will find that your note is still there.
+
+Some features you can deal with:
+    1) You can Edit your note by clicking on the button for Editing at the top right of each Note (Sure your edits will be saved as we explained above).
+
+    2) You can Delete any note you don't want, by clicking on the Delete button also on the top right of each note (beside the Editing button).
+
+Now it's your time bro to test the project and add as many notes as you want.
+
+Don't forget I am waiting your opinion bro.
