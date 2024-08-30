@@ -1,0 +1,11 @@
+In this project we made a nice Animated Countdown, so Let's explain it.
+
+When you open or reload the web page, you will see in the middle of the page a Countdown with a nice Animation (Shortly, the countdown will start with 3, then number 3 goes down in a nice rotation effect, then number 2 comes from the opposite side with the reverse rotation, and so on until we reach to 0).
+
+When the countdown finished by showing 0 as the last number in the countdown, the whole countdown will disappear and a Final Message will appear instead of the Countdown.
+
+the Final Message has Button to Replay the cooler Animated Countdown again, so if you press it the Animation will start again (press Replay Button = Reload the Web Page).
+
+Now it's your time bro to see the project and replay it many times to see it clearly and understand its mechanism.
+
+Don't forget bro, I want to hear your fantastic opinion about this project.
