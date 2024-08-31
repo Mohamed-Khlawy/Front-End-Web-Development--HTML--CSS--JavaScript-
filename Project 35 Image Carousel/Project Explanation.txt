@@ -1,0 +1,13 @@
+In this simple project we did the idea of an Imgae Carousel, so let's explain it.
+
+When you open the web page, you will find in the middle of the page the Imgae Carousel (a square to display the images and they are change automatically each 2 seconds).
+
+There is also 2 Buttons at the bottom of the Carousel square as following:
+    1) Previous Imgae ==> this will swap for the Previous Image of the current one.
+    2) Next Imgae ==> this will swap for the Next Image of the current one.
+
+Don't worry bro, if you press on the buttons the images won't display with a flicker effect, we handled this thing already.
+
+Not it's your time to try the project and see the images with automatically swapping or swapping by the buttons.
+
+Don't forget bro, I care to hear your opinion about this project.
