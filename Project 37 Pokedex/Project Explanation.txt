@@ -1,0 +1,13 @@
+In this project we made a nice Pokemon App using Pokemon API (https://pokeapi.co/), so let's explain it.
+
+When you open the web page, you will find 150 Pokemon Cards that explain some informations about each Pokemon as following:
+    1) Pokemon Image
+    2) Pokemon Id ==> this represents the specific id for this Pokemon within the API.
+    3) Pokemon Name
+    4) Pokemon Type ==> the type is written and the background color for the card will be slightly suitable for the Pokemon Type.
+
+It's a simple and cooler project to learn how to fetch data from an specific API and display them in a convienent and easy way.
+
+Now it's your time bro to open the project and see the Pokemon Cards with some of the informations for each one.
+
+Don't forget bro, I am waiting your opinion about this project!

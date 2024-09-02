@@ -45,7 +45,9 @@ h1 {
 }
 
 .pokemon .img-container img{
-    max-width: 90%;
+    width: 500px;
+    height: 100px;
+    max-width: 100%;
     margin-top: 20px;
 }
 
