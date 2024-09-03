@@ -1,0 +1,13 @@
+In this project we made the idea of a Mobile Tab Navigation, so let's explain it.
+
+When you open the web page, you will find in the middle of the page a Rectangle (the shape of Phone) with a Home Image by default and at the bottom of the Phone shape you will find as following:
+    1) Home Icon ==> this is the active item by default, also the active item will have a color of Purble.
+    2) Work Icon
+    3) Blog Icon
+    4) About Us Icon
+
+If you press on any of these icons, you will see that the Background Image for the Phone will change and the active item in the Navigation Bar will change to the new item that you clicked, and its' color will change to Purble as we explained above.
+
+Now, it's your time bro to test the project and take a deep look on it to get more understanding.
+
+Don't forget bro, I am waiting your opinion about the project.
