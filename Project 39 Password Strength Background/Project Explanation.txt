@@ -1,0 +1,7 @@
+In this simple project we made the idea of Background Blur based on the Strength of the Password you will enter.
+
+Shortly, when you open the web page, you will find a simple form to enter the Email and Password, and the background image is Blurry, and when you start to enter characters in the Password place the image will start to be visible based on number of characters you will enter (it will be fully visible when you enter 20 character).
+
+Now it's your time bro to test the project and see the Blurry effect and how it will go out based on number of characters in the Password you will enter.
+
+Don't forget bro, I am waiting your opinion about the project.
