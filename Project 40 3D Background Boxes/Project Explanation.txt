@@ -1,0 +1,11 @@
+In this project we made 3D Background Boxes with a nice animation effect, so let's explain it.
+
+When you open the web page, you will find 16 Boxes in the middle of the page (4 x 4 Grid).
+
+The boxes are displaying a cool Gif, but the cool thing that the boxes are seperated from each other and each box disply a specific part from the Gif in a very nice view.
+
+Also at the top of the page you will find a Button (Magic) and when you click on it, the whole boxes will rotate with a 360 deg in a nice animation effect, and the whole boxes will be combined with each other to form 1 Big Box in the middle of the page to disply the Gif.
+
+I hope you understand the project idea easily, but to get more understanding you can go and open the project on your browser by copying the index.html file path to your browser and enjoy with the project idea.
+
+Don't forget bro, I am waiting your opinion about that project.
