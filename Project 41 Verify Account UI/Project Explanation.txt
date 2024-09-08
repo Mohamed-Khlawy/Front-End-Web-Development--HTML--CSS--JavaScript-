@@ -1,0 +1,11 @@
+In this project we made a Verify Account UI with 6 numbers code, so let's explain it.
+
+When you open the page you will find the Verify Account Box in the middle of the web page, and it have a 6 boxes to enter the code (the code cosists of 6 numbers each number in a box, this only the UI bro, there is no real code or something!).
+
+You will start to write the code in the boxes and each box must contain only 1 number, and automatically when you write a number in any box you will find that the box focus goes to the next one (except for the last box, because there is no boxes more).
+
+You also can delete any wrong number you enter, and you can do this by clicking on the (Backspace Button on you Keyboard) after clicking the box focus will go automatically to the previous box to update its' number.
+
+Now it's your time bro to test the project, I want to remember you bro this is the UI only and there is no code will be sent to you, you can enter any numbers you want to test the project.
+
+Don't forget bro, I am waiting your opinion about the project.
