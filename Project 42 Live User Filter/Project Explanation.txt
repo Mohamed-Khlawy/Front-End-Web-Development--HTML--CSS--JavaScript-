@@ -1,0 +1,12 @@
+In this project we made the idea of the Live User Filter using (randomuser.me API ==> https://randomuser.me/), so let's explain it.
+
+When you open the web page you will find the Filter place and you will find it Loading the data from the API, after a few seconds the data will appear in front of you and each user has data as following:
+    1) User Picture.
+    2) User Name (First and Last).
+    3) User City and User Country (beside of each other but separated by comma).
+
+You can also search for a specific user at the Search place at the top of the Filter place and the results will be filtered by using your search.
+
+Now it's your time bro to test the projcet with yourself on your browser.
+
+Don't forget bro, I will be happy to hear your opinion about the project.
