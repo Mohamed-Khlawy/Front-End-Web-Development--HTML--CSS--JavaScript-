@@ -1,0 +1,14 @@
+In this project we made a Feedback UI Design that can be used to get your customers feedback about any service your are providing to them, so let's explain it.
+
+When you open the web page, you will find a feedback square in the middle of the page, and it has 3 choices about the customer feedback to choose from them, and the choices are as following:
+    1) Unhappy Feedback.
+    2) Neutral Feedback.
+    3) Satsfied Feedback.
+
+Each one of these feedbacks have an Emoji that explain the state of the feedback, and when you want to choose a feedback from them, you can just click on its' Emoji and you will find that your feedback has been activated (By default the Satsfied Feedback is activated, but you can choose it with your real feedback, the active feedback has a different Box Shadow and Font Weight).
+
+After you choose your feedback, you can click on the button at the bottom of the feedback box (Send Review), then you will get a result panel that thanks you for your feedback and tell you the feedback you choose.
+
+I hope that I explained the idea in an easy way, but to get more understanding you can go and try the project with yourself on your browser to understand more.
+
+Don't forget bro, I am waiting your opinion about the project bro!
