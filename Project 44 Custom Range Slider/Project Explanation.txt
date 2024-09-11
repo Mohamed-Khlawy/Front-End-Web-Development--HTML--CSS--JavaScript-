@@ -1,0 +1,9 @@
+In this project we made a Custom Range Slider that can be uesd in any projects to give a cooler view for the page, so let's explain it.
+
+When you open the web page, you will find at the middle of it the Range Slider, you can click on the Middle Thumb on the Range Slider and start to move it right and left as you want.
+
+To know which value the Slider has now, you will find a label at the top of the Range Slider, that tells you what is the actual value you are standing on now, it also moves with you when you move the middle Thumb from the most right to the most left.
+
+Now it's your time bro to test the project and try the Range Slider.
+
+Don't forget bro I am waiting your opinion about the project, and What about to tell me some of the ideas that we can use this Range Slider in it.
