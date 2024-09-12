@@ -1,0 +1,9 @@
+In this simple project we did a Navigation similar to the Netflix Navigation, so let's explain it.
+
+When you open the web page you will find at the middle of the page the Netflix Logo (you can put here anything you want like movies or series or what you want).
+
+At the Top Left of the page you will find the Hamburger Icon, and when you click on it the Navigation Bar will appear in front of you with the animation of the Netflix (Colors are Black, Red, and White when it appears and the reverse when it disapperas, by clicking on the Close or X button in the Netflix Navigation Bar).
+
+Now it's your time bro to test the project and see the Netflix Navigation many times by clicking on the Hamburger and Close button to show and hide the Navigation Bar.
+
+Don't forget bro, I am waiting your opinion about the project and any comments you have about it!!
