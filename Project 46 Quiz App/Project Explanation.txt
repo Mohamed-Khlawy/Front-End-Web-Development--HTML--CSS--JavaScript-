@@ -1,0 +1,13 @@
+In this project we made a Simple Quiz App with only 4 questions for simplicity, so let's explian it.
+
+When you open the web page, The quiz rectangle will reload in front of you with the first question and its' answers.
+
+All you have to do is to click on the answer that you think it's true, then you can click on the submit button at the bottom of the rectangle to get the next question (take care bro, if you click the submit button without choosing any answer you will not go to the next question until you choose an anwser).
+
+When you finish the 4 questions, you will get the Result Page, that displays how many questions you have answered correctly.
+
+You will find at the bottom of the Result page a button to reload the whole quiz and start it again, you can press it to see what will happen.
+
+Now it's your time bro, to test the project and take the 4 easy questions and I hope to answer all of them correctly and get 4/4 Result!!
+
+Don't forget bro, I will be happy to hear your opinion about the project, and how we can improve it.
