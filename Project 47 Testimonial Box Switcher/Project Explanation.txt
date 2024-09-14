@@ -1,0 +1,13 @@
+In this project we did a Testimonial Box that switch every 10 seconds to display something new, so let's explain it.
+
+When you open the web page, you will find in the middle of the page the Testimonial Box, which displays different user every 10 seconds, and the user information is as following:
+    1) User Text ==> some words about this user, and who is he.
+    2) User Image.
+    3) User Name.
+    4) User Role or Position at work.
+
+Like I said to you above bro, there is a Progress Bar at the top of the Testimonial Box and this started from left side to the right side (take 10 seconds like we said before), then the user is changed automatically and the Progress Bar start again and after the users finished it will start from the beginning.
+
+Now it's your time bro to test the project to get more understanding about it.
+
+Don't forget bro, I want to hear your opinion about the project, and any updates on it to be better.
