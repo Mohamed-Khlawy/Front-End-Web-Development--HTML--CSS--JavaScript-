@@ -1,0 +1,9 @@
+In this project we made the idea of Random Image Feed from the Unsplash.com website, so let's explain it.
+
+At first I want to say that I know that the way we have applied this idea isn't working and if you open the index.html on your browser the images won't load because Unsplash doesn't support this way of getting images, but we make it as an idea and I will make another project about the new Unsplash API to get random images.
+
+To explain this project, we can say that there is a 10 rows of images each row has 3 images only to fit the width and make the page responsive.
+
+I will mention here in the file for the New Version of the Unsplash Images Project, don't worry bro about that.
+
+See you soon bro!!
