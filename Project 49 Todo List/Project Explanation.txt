@@ -1,0 +1,15 @@
+In this project we did the idea of a Todo List with a simple and creative design, so let's explain it.
+
+When you open the web page, you will find the Input text to enter your Todo Element, you can write in it, then press Enter on your Keyboard to Add it to your Todo List.
+
+When you press Enter you will find it appears as a new Todo Item in the list and the Input text will become Empty for the next Todo if you want.
+
+Because we are talking about Todo List, when you refresh the page you will find the Todo Elements that you enter is still existing.
+
+Some features for each Todo Item as following:
+    1) Mark as Completed ==> when you complete the Todo Element you can just press Left Click with your mouse on it, and you will find a line is goind at the middle of that element.
+    2) Delete the Todo ==> If you want to delete it, just press Right Click on the Todo element, and you will find it disappears from the list (don't worry bro, if you delete it you won't find it again when you Reload the page).
+
+Now it's your time bro to test the project and make your Todo Items and test their features.
+
+Don't forget I want to hear your opinion about the project and how we can improve it in the future.
