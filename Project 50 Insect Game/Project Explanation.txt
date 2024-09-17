@@ -1,0 +1,22 @@
+Welcome my bro, as we are in the Project 50 in this Repository, so we come with a new and creative idea, that will be a Game with Insects, so let's explain it.
+
+When you open the web page, you will find at the First Screen the Name of the Game (Catch The Insect) and a Button to start the Game (Play Game), and you have to press it to move to the Second Screen bro!
+
+Now we are at the Second Screen, here you can choose the Insect that you want to play with it and you have 4 choices as following: 
+    1) Fly
+    2) Mosquito
+    3) Spider
+    4) Roach
+When you click on one of them finally the game will start (I known that this is a strange thing to choose an insect, but this is the game bro).
+
+Now you are at the Main Screen for the game.
+
+At first you will find a Timer at the Top Left of the page, and your Score will be at the Top Right of the page.
+
+Then in a random position on the page an insect will appear (sure bro tha insect that you choose from the previous screen will appear nothing else).
+
+The game idea is slightly silly (I know that bro!), when you press on the insect that appears on the page it will disappears and your score will increase by (1), wait bro I am sorry for saying that, but if you kill 1 insect 2 more will appear in front of you (I am really sorry for that bro!!) and so on (Kill 1 == 2 more appear) and there is no end to the game bro!!!!
+
+I hope you understand the project and the game idea easily, but don't worry bro you can go now and take the index.html file path to your browser and test the game by yourself.
+
+I know that this maybe an annoying game but I am really want to hear your opinion about the project and how we can improve it and if you have any similar ideas, I will be happy to hear it from you bro!!
