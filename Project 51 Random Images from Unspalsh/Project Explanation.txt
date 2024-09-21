@@ -1,0 +1,13 @@
+First, this project is the upgraded version from the (Project 48 Random Image Feed ==> https://github.com/Mohamed-Khlawy/Front-End-Web-Development-HTML_CSS_JavaScript/tree/main/Project%2048%20Random%20Image%20Feed), you can go to it and read the Project Explanation of it, to understand why we have upgrade it in this project.
+
+In this project we made the idea of Random Images from Unshplsh, so let's explain it easily.
+
+When you open the page it will take a few seconds and then it will start to show in front of you 2 Images randomly from Unshplsh API.
+
+These 2 images are existing at the 2 sides of the page (Left and Right sides), but you can see these 2 if you will run the project on an Ipad or Laptob or PC, but if you are runnig it on your phone it will show only 1 image.
+
+For sure when you reload the page, you will find 2 new images not the previous 2 (Random Images bro!).
+
+Now it's your time to test the project and see 2 different images with each reload.
+
+Don't forget bro, I am waiting your opinion about this project.
