@@ -1,0 +1,20 @@
+In this project we made a new idea with the Unsplash API and we named it Photo Gallery, so let's explain it.
+
+When you open the web page, you will find the gallery space at the middle of the page, but intially it won't have any photos.
+
+You will find a Number Input, where you can put how many phoots you want to see in the gallery (Min photos is 2 and Max photos is 10).
+
+After you enter the number of photos you want, press on the Button at the button in the gallery (GET PHOTOS).
+
+Now the gallery will take a few seconds to GET the exast number of photos you entered previously, and the photos will start to appear in front of you in the gallery.
+
+The page is responsive so, the following will happen based on your device:
+    1) Laptop or PC ==> each row will have 3 photos as max number on each row.
+    2) Ipad or Tablet ==> each row will have 2 photos as max number on each row.
+    3) Mobile Phone ==> each row will have 1 photo as max number on each row.
+
+Don't worry bro, rest of photos will be on the other rows so you may have scroll bars to see all photos.
+
+Now it's your time bro, to test the project on your favorite device.
+
+Don't forget bro, I will be happy to hear your opinion about the project.
